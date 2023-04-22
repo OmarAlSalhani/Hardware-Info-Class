@@ -1,0 +1,4 @@
+C:\Users\OmarSalhani\source\repos\Salhani.HardwareInfo\bin\Debug\Salhani.HardwareInfo.dll
+C:\Users\OmarSalhani\source\repos\Salhani.HardwareInfo\bin\Debug\Salhani.HardwareInfo.pdb
+C:\Users\OmarSalhani\source\repos\Salhani.HardwareInfo\obj\Debug\Salhani.HardwareInfo.dll
+C:\Users\OmarSalhani\source\repos\Salhani.HardwareInfo\obj\Debug\Salhani.HardwareInfo.pdb
